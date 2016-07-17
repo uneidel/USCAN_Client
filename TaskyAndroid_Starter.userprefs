@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="TaskyAndroid/ScannerAndroid.csproj">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="TaskyAndroid/Adapters/TaskListAdapter.cs" Line="1" Column="1" />
+      <File FileName="TaskyAndroid/Screens/HomeScreen.cs" Line="1" Column="1" />
+      <File FileName="TaskyAndroid/Screens/TaskDetailsScreen.cs" Line="1" Column="1" />
+      <File FileName="TaskyAndroid/Resources/values/Strings.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ScannerAndroid AndroidDesignerPreferredDevice="5.1&quot; WVGA" PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
