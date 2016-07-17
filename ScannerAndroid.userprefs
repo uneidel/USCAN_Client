@@ -1,0 +1,6 @@
+﻿<Properties StartupItem="ScannerAndroid/ScannerAndroid.csproj">
+  <DisabledProjects>
+    <String>Tasky.Core/Scanner.Core.Android.csproj</String>
+    <String>TaskyAndroid/ScannerAndroid.csproj</String>
+  </DisabledProjects>
+</Properties>
